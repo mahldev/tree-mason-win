@@ -1,0 +1,606 @@
+!SESSION 2024-03-04 00:28:47.630 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/mahl/.cache/jdtls/workspace
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:49.066
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:49.229
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:49.260
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:49.261
+!MESSAGE Initializing Java Language Server 1.33.0.202402151717
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:49.262
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:49.979
+!MESSAGE ProjectRegistryRefreshJob finished 717ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:49.993
+!MESSAGE Started org.eclipse.buildship.core 12ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:50.010
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:50.011
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:50.037
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:50.046
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:50.052
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:50.130
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:50.496
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:28:54.884
+!MESSAGE No previous Gradle project at /home/mahl/dev/projects/pta, it must be synchronized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:20.445
+!MESSAGE Workspace initialized in 30409ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:20.471
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:20.477
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:20.781
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:21.050
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:21.821
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:21.824
+!MESSAGE 1 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:21.825
+!MESSAGE Validated 1. Took 125 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:25.248
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:25.812
+!MESSAGE Reconciled 1. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:26.206
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:26.213
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:26.286
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:26.372
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:26.502
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:26.596
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:26.666
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:27.029
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:27.067
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:27.220
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:27.366
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:27.881
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:27.881
+!MESSAGE 3 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:27.882
+!MESSAGE Validated 1. Took 66 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:27.992
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:28.141
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:28.164
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:28.202
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:28.295
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:28.347
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:28.748
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:28.748
+!MESSAGE 4 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:28.750
+!MESSAGE Validated 1. Took 54 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:29.837
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:29.907
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:30.424
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:30.424
+!MESSAGE 4 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:30.425
+!MESSAGE Validated 1. Took 67 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:30.701
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:30.736
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:30.890
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:31.038
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:31.187
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:31.441
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:31.592
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:31.776
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:31.944
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:31.994
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:32.448
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:32.899
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:32.900
+!MESSAGE 3 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:32.900
+!MESSAGE Validated 1. Took 51 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:34.023
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:34.461
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:34.462
+!MESSAGE 1 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:34.462
+!MESSAGE Validated 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.017
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.210
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.365
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.534
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.613
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.648
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.688
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.722
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.820
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:35.854
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:36.156
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:36.220
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:36.328
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:36.373
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:36.523
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:36.671
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:36.821
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:36.970
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:37.200
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:37.349
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:37.499
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:37.648
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:37.799
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:37.948
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.098
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.250
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.348
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.469
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.535
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.591
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.635
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.788
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:38.936
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:39.087
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:39.236
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:39.385
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:39.621
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:39.770
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:39.918
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:40.066
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:40.519
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:40.971
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:41.165
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:41.304
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:41.370
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:41.638
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:41.669
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:41.733
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.097
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.137
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.175
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.208
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.283
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.316
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.399
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.440
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.540
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:42.581
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:43.017
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:43.018
+!MESSAGE 4 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:43.018
+!MESSAGE Validated 1. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:44.670
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:45.104
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:45.104
+!MESSAGE 1 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:29:45.104
+!MESSAGE Validated 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:30:05.692
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:30:05.696
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:30:05.750
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:30:05.755
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2024-03-04 00:50:19.257 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/mahl/.cache/jdtls/workspace
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:20.545
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:20.735
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:20.766
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:20.767
+!MESSAGE Initializing Java Language Server 1.33.0.202402151717
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:20.768
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:21.459
+!MESSAGE ProjectRegistryRefreshJob finished 691ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:21.573
+!MESSAGE Started org.eclipse.buildship.core 114ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:21.590
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:21.590
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:21.606
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:21.609
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:21.939
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:22.425
+!MESSAGE pta was modified since last time the workspace was opened, must be synchronized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:24.679
+!MESSAGE Workspace initialized in 3074ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:24.702
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:24.707
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:24.864
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:25.200
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:25.984
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:25.985
+!MESSAGE 1 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:25.987
+!MESSAGE Validated 1. Took 135 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:35.666
+!MESSAGE Reconciled 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:36.119
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:36.196
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:36.308
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:36.453
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:36.989
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:36.989
+!MESSAGE 1 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:36.990
+!MESSAGE Validated 1. Took 86 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:37.509
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:38.019
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:38.019
+!MESSAGE 1 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:38.020
+!MESSAGE Validated 1. Took 60 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:50.614
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:51.113
+!MESSAGE begin problem for /CompanyService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:51.113
+!MESSAGE 4 problems reported for /CompanyService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:50:51.120
+!MESSAGE Validated 1. Took 54 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:05.984
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:06.418
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:06.419
+!MESSAGE 1 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:06.465
+!MESSAGE begin problem for /CompanyService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:06.465
+!MESSAGE 4 problems reported for /CompanyService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:06.466
+!MESSAGE Validated 2. Took 81 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:07.320
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:07.823
+!MESSAGE begin problem for /CompanyService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:07.824
+!MESSAGE 4 problems reported for /CompanyService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:07.825
+!MESSAGE Validated 1. Took 54 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:08.462
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:08.793
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:09.300
+!MESSAGE begin problem for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:09.300
+!MESSAGE 1 problems reported for /CompanyController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:09.335
+!MESSAGE begin problem for /CompanyService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:09.335
+!MESSAGE 4 problems reported for /CompanyService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:51:09.335
+!MESSAGE Validated 2. Took 92 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:53:28.212
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:53:28.243
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:53:28.290
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-04 00:53:28.295
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
